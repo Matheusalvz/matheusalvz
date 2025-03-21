@@ -6,7 +6,7 @@ Sou Matheus Alves,
 
 📍 Vitória da Conquista – BA | 📞 (77) 98842-5097 | 📧 matheusalvz51597@gmail.com
 
-🚀 Sobre mim
+🚀 Sobre mim:
 Sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento e manutenção de APIs REST voltadas para a área educacional, utilizando Angular e VueJS no front-end e NestJS e Laravel no back-end. Busco constantemente aprimorar minhas habilidades e contribuir para o crescimento das organizações em que atuo.
 
 📌 Atualmente, estou envolvido em projetos do Grupo HNE, aprimorando funcionalidades e garantindo uma melhor experiência para usuários e administradores.
